@@ -22,7 +22,7 @@ https://youtube.com/shorts/-9cZF4fGurg?feature=share
 
 ## Relato e Especificações
 
-A montagem do protótipo foi feita seguindo a lógica ensinada em sala, da forma que se liga um componente e como podemos fazê-lo funcionar mandando energia para seu pino positivo assim que necessário. Também, é utilizada a lógica de utilizar a resistência na passagem da corrente elétrica para que o Diodo Emissor de Luz (LED) não queime, e seu funcionamento é programado no IDE do Arduíno utilizando a biblioteca ESP32 para adaptar para o funcionamento desse micro processador.
+A montagem do protótipo foi feita seguindo a lógica ensinada em sala, de como se liga um componente e como podemos fazê-lo funcionar mandando energia para seu pino positivo assim que necessário. Também, é utilizada a lógica de adicionar uma resistência na passagem da corrente elétrica para que o Diodo Emissor de Luz (LED) não queime, e seu funcionamento é programado no IDE do Arduíno utilizando a biblioteca ESP32 para adaptar para o funcionamento desse microprocessador.
 
 
 ## Código
@@ -77,9 +77,11 @@ Avalei o Trabalho da minha colega de sala Ana Beggiato, ela fez uma trabalho com
 |Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código |	Até 1 |	Até 0,5 |	0 | contempla |	
 | | | | |Pontuação Total = **10 pontos**|
 <br> 
-#### Avaliador 2: Ana Beggiato
+
+### Avaliador 2: Ana Beggiato
 
 A Ana avaliou meu trabalho e viu que tudo também estava correto (todas os critérios que descrevi acima), no entanto, eu não adicionei algum elemento que fosse além do pedido.
+
 |Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
 |-|-|-|-|-|
 |Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores	|Até 3	|Até 1,5	|0 | contempla |	
